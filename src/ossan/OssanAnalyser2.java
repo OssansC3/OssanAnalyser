@@ -110,8 +110,8 @@ public class OssanAnalyser2 {
 			if((countAfter < 1000)&&(countBefore < 1000)) return;//bigSabun = "after = before";
 			else if (countAfter >= countBefore*2) bigSabun = "after>>>before";
 			else if (countAfter*2 <= countBefore) bigSabun = "after<<<before";
-			else if (countAfter >= countBefore*1.6) bigSabun = "after >>before";
-			else if (countAfter*1.6 <= countBefore) bigSabun = "after <<before";
+			else if (countAfter >= countBefore*1.6) bigSabun = "after>> before";
+			else if (countAfter*1.6 <= countBefore) bigSabun = "after<< before";
 			else if (countAfter >= countBefore*1.3) bigSabun = "after > before";
 			else if (countAfter*1.3 <= countBefore) bigSabun = "after < before";
 			else bigSabun = "after = before";
