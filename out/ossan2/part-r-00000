@@ -1,0 +1,343 @@
+after <<before	LL一般牛乳1L以外	1800	2900	2500
+after = before	あられ・おかき	4598	4430	6048
+after = before	うるち米	1090	1090	2080
+after<<<before	おでんセット	1318	3032	960
+after<<<before	おでん種（すじ・大根など）	510	1050	1570
+after = before	おにぎり・おむすび	305468	380550	385780
+after < before	かりんとう	1400	1996	1600
+after = before	さきイカ	2980	2842	2838
+after = before	せんべい	17272	20438	15014
+after >>before	せんべい詰め合わせ	1690	1014	676
+after>>>before	その他キャンデー・あめ菓子	1110	0	315
+after>>>before	その他ソーセージ	2610	290	1740
+after = before	その他チルドクールデザート	2052	2232	2508
+after = before	その他チルドケーキ	2340	2880	5580
+after > before	その他チルドスナック半製品	3140	2400	3200
+after = before	その他チルドフライ	2050	2070	2500
+after = before	その他ナチュラルチーズ	1080	1170	2250
+after<<<before	その他ボディーケア用品	0	1040	0
+after >>before	その他レギュラーアイス	6082	3652	4102
+after = before	その他乳飲料	1430	1170	1040
+after<<<before	その他冷凍米飯	380	1940	1170
+after = before	その他医薬部外品	4172	4272	4300
+after<<<before	その他和菓子	1200	4398	998
+after>>>before	その他家庭医療関連消耗品	1544	398	1544
+after = before	その他常温クールデザート・ケーキ	2250	1900	1370
+after <<before	その他水産珍味	1448	2878	2494
+after = before	その他畜肉製品	5268	4165	3625
+after<<<before	その他野菜ジュース	524	1815	2290
+after = before	たばこ	486670	559370	584470
+after = before	どら焼き・三笠山	3980	3380	2950
+after > before	ぬれティッシュ	2936	2022	5362
+after>>>before	ふりかけ（袋・瓶）	1052	303	303
+after<<<before	まんじゅう	2740	6850	4620
+after < before	ゆで卵・温泉卵	6480	9305	8275
+after = before	ようかん	1700	1430	1390
+after = before	アルカリマンガン電池　単三	7580	7850	7090
+after>>>before	アルカリマンガン電池　単五	1120	280	0
+after > before	アルカリマンガン電池　単四	4230	3160	4200
+after = before	アンズ・スモモ・梅菓子	5170	4628	7836
+after < before	イカ珍味	6718	10084	11900
+after = before	インスタントコーヒー	7014	5702	5524
+after>>>before	ウイスキー	9600	2306	6900
+after = before	ウインナソーセージ	3554	4140	5578
+after <<before	ウエハース	1752	3140	1900
+after>>>before	ウオツカ	1590	0	530
+after<<<before	エビせんべい・イカせんべい	1456	3100	2500
+after = before	オーデコロン	1500	1700	0
+after = before	カクテルドリンク	4579	4612	9846
+after <<before	カステラ	720	1380	320
+after > before	カップアイス	10360	7932	9186
+after < before	カップスープ	3466	4687	2838
+after = before	カップ入り清酒	5168	5404	2025
+after > before	カニ風味かまぼこ	1080	770	790
+after<<<before	カマンベールチーズ	460	1150	690
+after = before	ガムテープ	1920	2240	2200
+after<<<before	キッチン用クリーナー	0	1080	0
+after = before	キムチ・朝鮮漬	2700	2250	2550
+after = before	クラッカー	2058	2460	2508
+after = before	クロワッサン	920	1120	1120
+after >>before	グミキャンデー	1775	1100	285
+after = before	ケーシング詰めかまぼこ	1200	1360	1130
+after < before	コーヒーミックス	3406	5142	7672
+after = before	コーヒー乳飲料	14518	16792	18152
+after > before	コーンアイス	3772	2838	3968
+after = before	コーン系スナック	7898	8417	7847
+after < before	ゴミ用ポリ袋・紙袋	5360	8170	6005
+after>>>before	サラダ	1800	0	2710
+after > before	サラミ・ドライソーセージ（含常温）	2238	1614	1006
+after = before	サンドイッチ	120270	151080	160340
+after = before	シェービングフォーム	2976	2570	6730
+after < before	シャンプー	2185	3075	6971
+after>>>before	シャープペンシル	1300	0	270
+after >>before	シリアル（フレーク）	2051	1172	586
+after<<<before	シーズナルキャンデー・あめ菓子	0	1740	435
+after <<before	シーズナルチョコレート・チョコレート菓子	995	1860	4680
+after = before	ジャガ芋系スナック	9020	8980	6812
+after = before	ジャーキー珍味	2782	2682	2186
+after = before	スティック包装のどあめ	14630	16340	20343
+after < before	スティック包装ソフトキャンデー	3330	5045	3120
+after>>>before	スパゲティ・ロングパスタ	1134	330	0
+after>>>before	スプレータイプ口中剤	2648	1000	1978
+after = before	スライスプロセスチーズ	1332	1314	1728
+after = before	スライスロースハム	1584	1386	1386
+after = before	スープ缶詰	4496	4000	5885
+after = before	タラ珍味	2554	2366	1838
+after < before	ダイエット食品	1488	2232	1736
+after = before	ダイエット食品（錠剤）	2500	2500	2500
+after = before	チューハイ	14652	14165	18154
+after < before	チョコバー・粒チョコレート	49198	68276	58603
+after <<before	チョコレートがけプレッツェル	11234	20210	15958
+after = before	チョコレート菓子	20387	21877	18505
+after = before	チルドオムレット	7860	7100	12320
+after = before	チルドカップ入りコーヒー乳飲料	25292	32188	30280
+after<<<before	チルドカップ入り紅茶飲料	580	1200	430
+after < before	チルドシュークリーム・エクレア	13868	20000	17000
+after>>>before	チルドシューマイ	1320	660	1540
+after <<before	チルドショートケーキ・パイ	12750	21940	22490
+after<<<before	チルドスープ	0	1050	750
+after = before	チルドチーズデザート	5232	5518	4118
+after = before	チルドフライドチキン	48538	51044	47852
+after<<<before	チルドフルーツゼリー	594	1386	1584
+after = before	チルドプリン	22115	22804	23852
+after > before	チルドムース	2410	1628	3370
+after<<<before	チルド中華まんじゅう	0	1188	0
+after >>before	チルド杏仁豆腐	2210	1170	1430
+after = before	デニッシュ・ペストリー	65920	54680	65460
+after>>>before	トイレタンク内沈型洗浄芳香剤	1380	0	0
+after = before	トイレットペーパー	4020	3866	7204
+after < before	ドリンクヨーグルト	14420	20760	22370
+after<<<before	ドレッシング	1065	2358	2115
+after = before	ドーナツ	39766	50462	45196
+after<<<before	ノート	1430	3030	1540
+after<<<before	ハンドクリーム・ローション	0	1060	520
+after = before	ハンドソープ・手洗い専用せっけん	880	1140	1140
+after = before	ハンバーガー	5940	6680	7430
+after < before	ハードヨーグルト	17490	26766	26270
+after = before	ハードヨーグルト（低脂肪・無脂肪）	1870	1760	990
+after = before	バラエティ食パン	1400	1400	1600
+after < before	バータイプアイス	2434	3551	4417
+after>>>before	バーボン	2296	0	498
+after = before	バームクーヘン	6660	5580	6690
+after = before	パウチ入りスポーツ飲料	1391	1400	2373
+after <<before	パウンドケーキ	4980	8560	7720
+after = before	パーソナルプレミアムアイス	16740	16580	18640
+after = before	ビスケット・クッキー	14002	17327	14224
+after<<<before	ビスケット・クッキーギフトセット	0	1000	3000
+after <<before	ピータン	1470	2370	2330
+after < before	ピーナツ	1520	2170	1818
+after = before	ファンデーション	1200	1200	1200
+after <<before	フルーツ乳飲料	2870	5150	4170
+after < before	フルーツ入りヨーグルト	17034	25370	23560
+after = before	フルーツ入りヨーグルト（低脂肪・無脂肪）	8190	8190	9880
+after = before	プレッツェル	3037	2577	4074
+after>>>before	プレーンヨーグルト	1510	248	1014
+after<<<before	ヘアトニック	0	1000	0
+after = before	ベーコン	1264	1106	1264
+after = before	ペットボトル入りウーロン茶飲料	30125	34935	34497
+after = before	ペットボトル入りコーヒー飲料	290192	345551	360463
+after = before	ペットボトル入りコーラ飲料	93244	113080	121900
+after = before	ペットボトル入りスポーツ飲料	54030	64170	63330
+after = before	ペットボトル入りミネラルウオーター	186428	226422	248572
+after = before	ペットボトル入り健康茶飲料	66645	55983	61927
+after = before	ペットボトル入り果汁100％飲料	6240	5760	6880
+after = before	ペットボトル入り果汁入り清涼飲料	229476	281002	266938
+after = before	ペットボトル入り果汁入り炭酸飲料	29420	25750	45570
+after = before	ペットボトル入り果汁混合野菜ジュース	7222	8600	8268
+after < before	ペットボトル入り無果汁清涼飲料	31698	48352	45362
+after < before	ペットボトル入り無果汁炭酸飲料	78790	112382	72096
+after = before	ペットボトル入り紅茶飲料	45427	52804	47025
+after = before	ペットボトル入り緑茶飲料	517067	642883	646868
+after = before	ホットドッグ	44060	45880	44520
+after <<before	ホームタイププレミアムアイス	2350	4300	850
+after < before	ホームタイプマルチアイス	6740	10580	8340
+after >>before	ボディーローション	1180	670	0
+after<<<before	ボールペン	2025	4090	3780
+after < before	ポケットティッシュ	1820	2410	3298
+after = before	ポテトチップス	38438	42612	43733
+after<<<before	マカデミアナッツ	396	1188	990
+after <<before	マスク	1742	3084	3136
+after = before	マドレーヌ・ケーキマフィン	16198	17068	17868
+after = before	マヨネーズ・マヨネーズタイプ調味料	1284	1160	1605
+after<<<before	マンガン電池　単三	540	1890	270
+after<<<before	マンガン電池　単二	0	1000	1000
+after<<<before	ラムネ菓子	470	1202	1096
+after<<<before	リチウムコイン電池	270	1080	270
+after < before	リップクリーム	2613	3542	3810
+after>>>before	リンス	1940	0	4798
+after<<<before	レギュラーコーヒー（粉）	598	1794	1794
+after<<<before	レトルトウエットキャットフード	624	1482	312
+after < before	レトルトカレー	2806	4471	4458
+after = before	レトルトパスタソース	1636	1438	248
+after = before	ロールケーキ	4008	5140	2280
+after < before	ロールパン・コッペパン	6440	8620	4350
+after = before	一口タイププロセスチーズ	3240	3928	7688
+after >>before	一般歯ブラシ	2522	1508	1742
+after = before	一般牛乳1L	23880	22414	22820
+after = before	一般牛乳1L以外	15372	18226	17164
+after = before	一般衣料品用粉末洗剤	1136	1076	2072
+after>>>before	万能消臭・芳香・除菌剤	1194	0	398
+after = before	中華まんじゅう	57030	64140	75720
+after = before	中華総菜	7410	7800	8970
+after = before	乳酸菌飲料	7605	9345	15450
+after > before	低脂肪牛乳・無脂肪牛乳1L	3366	2514	2256
+after > before	使い切りカイロ	6540	4764	6315
+after = before	使い切りライター	4032	3840	5184
+after = before	使い切り男性用かみそり	1768	2280	2411
+after<<<before	修正液・ペン	600	1800	900
+after = before	入浴剤	1400	1200	2150
+after <<before	冷凍うどん（つゆ・具材入り）	5280	9550	10350
+after = before	冷凍カツ	10320	10320	8040
+after<<<before	冷凍ピラフ・チャーハン	680	1600	1860
+after = before	冷凍ポテトフライ	3300	4260	3000
+after = before	冷凍中華そば	8480	8090	7700
+after < before	半生ケーキ	5584	7410	6061
+after < before	即席かゆ	1969	2887	4742
+after < before	即席みそ汁（ペースト）	1416	2036	2388
+after = before	即席カップうどん	16504	17899	18363
+after = before	即席カップ中華そば	95403	119853	110200
+after = before	即席カップ入りみそ汁・和風汁	7890	9280	10205
+after = before	即席カップ入りスープ	12731	11828	10523
+after > before	即席カップ入り卵スープ	1300	910	1560
+after <<before	即席カップ入り春雨スープ	2010	3230	2400
+after = before	即席カップ日本そば	8060	10077	12290
+after < before	即席カップ焼きそば	10698	14728	15072
+after = before	即席カレー・ハヤシライス	1440	1420	1700
+after = before	即席ワンタン	3608	3608	3432
+after = before	即席白飯・無菌包装白飯	5830	5530	3656
+after = before	即席茶漬け	1736	2232	3224
+after = before	即席袋中華そば	2296	2050	1886
+after<<<before	即席雑炊	1390	3426	3376
+after = before	口中清涼菓子	17210	21991	22042
+after = before	和菓子詰め合わせ	980	1240	1880
+after < before	団子・串団子	5300	6900	4800
+after < before	大福もち	12400	17160	14880
+after = before	女性用化粧水	3510	3400	5000
+after<<<before	女性用化粧落とし	1130	3230	4480
+after<<<before	女性用基礎化粧品セット	320	3220	1620
+after = before	寿司	52940	57070	59110
+after = before	小麦系スナック	8912	8800	7996
+after = before	常温ゼリー	11562	12868	11544
+after >>before	常温ワッフル	1020	520	1170
+after < before	弁当	266120	353480	323740
+after < before	揚げせんべい・あられ・おかき	9044	13376	7386
+after = before	携帯用オーラルケア商品セット	4050	3655	4208
+after = before	新規アイテム	1018851	1141655	1382260
+after < before	普通食パン	14700	20750	19565
+after>>>before	本格焼酎（1．8−2L）	1544	0	1544
+after = before	本格焼酎（4合相当）	2240	1975	975
+after>>>before	本格焼酎（5合相当）	1669	829	7494
+after = before	板ガム	20590	20933	22330
+after < before	板チョコレート	4167	6007	4720
+after < before	柿の種	5386	7916	7724
+after = before	栄養補給ドリンク	31475	37635	39322
+after = before	栄養補給菓子	14302	13731	16351
+after = before	栄養補給錠剤・錠菓	10520	13450	14510
+after<<<before	梅酒	0	2428	3300
+after = before	梅酒カクテル	1578	1246	1246
+after = before	棒付きハードキャンデー	1110	1350	870
+after<<<before	歯間清掃具	400	1200	0
+after = before	氷	11070	12290	12850
+after = before	汗拭きシート	2550	2190	2400
+after < before	洋風せんべい・あられ・おかき	1064	1476	400
+after < before	洋風総菜	10770	14160	15020
+after>>>before	洗顔せっけん・フェイシャルソープ	4419	1083	2192
+after <<before	海藻珍味	2030	3880	2625
+after <<before	液体ボディソープ	2590	4380	5510
+after = before	液体口中剤	2300	2240	1700
+after = before	液体食器洗剤	1168	1296	1148
+after = before	滋養強壮ドリンク（一般品）	5538	6860	8149
+after = before	滋養強壮ドリンク（医薬部外品）	62431	75395	86223
+after = before	濃口しょうゆ	990	1156	674
+after <<before	焼き豚	1200	2398	1400
+after < before	玉子パン・焼き菓子パン	700	1080	1580
+after = before	玩具入り菓子	27718	22552	19283
+after>>>before	瓶入りビール	2568	321	1284
+after>>>before	瓶入りプレミアムビール	3570	714	2142
+after>>>before	瓶入りミネラルウオーター	2000	1000	1000
+after < before	瓶入り果汁100％飲料	2250	3000	3600
+after < before	瓶入り果汁入り清涼飲料	11125	15690	13435
+after = before	瓶入り果汁入り炭酸飲料	3220	3910	5635
+after<<<before	瓶入り清酒（1．8L以上）	0	1835	1835
+after<<<before	瓶入り発泡酒	988	2470	494
+after = before	甘栗・勝栗	9960	7765	6990
+after < before	甘酒	2075	3000	4845
+after <<before	生うどん	685	1345	1850
+after<<<before	生ちくわ・焼きちくわ	670	1920	960
+after = before	生タイプ即席カップうどん・日本そば	5940	5742	6732
+after < before	生タイプ即席カップ中華そば	2038	2752	1584
+after<<<before	生焼きそば	476	2618	1428
+after>>>before	生理用ショーツ	1200	0	0
+after = before	生理用ナプキン	2744	2186	2480
+after <<before	甲類焼酎（1．8−2L）	1575	2945	2806
+after>>>before	甲類焼酎（4合相当）	5022	1492	3356
+after>>>before	男性用かみそりホルダー	3375	0	3150
+after<<<before	男性用かみそり替え刃	0	2700	2475
+after<<<before	男性用クリーム	0	1200	0
+after<<<before	男性用ヘアスタイリングジェル	1600	5860	1920
+after>>>before	男性用ヘアスタイリングフォーム	3930	1760	4930
+after = before	男性用ヘアワックス	5600	5400	5450
+after = before	男性用化粧水	1080	1200	1200
+after = before	男性用染髪料・ヘアカラー	1500	1700	750
+after <<before	男性用洗顔剤	2450	4150	1280
+after = before	白ワイン	980	1065	1035
+after > before	瞬間接着剤	1494	1080	1454
+after>>>before	笹かまぼこ	2000	1000	2200
+after>>>before	筒型リチウム電池	3450	690	690
+after = before	箱・缶入りのどあめ	3342	3292	2741
+after>>>before	箱・缶入りハードキャンデー	1078	148	634
+after < before	箱入りティッシュ	9972	14512	11792
+after = before	簡易型ドリップコーヒー	2882	2722	2822
+after = before	米系スナック	1660	1422	830
+after < before	粉末ココア	2156	3006	3002
+after = before	粒ガム	24279	26168	28700
+after > before	粒・錠剤口中剤	6178	3921	5406
+after < before	粒納豆	4022	5634	4944
+after < before	紅ショウガ・ショウガ漬	1140	1696	2508
+after = before	紅茶ティーバッグ	1092	1192	894
+after < before	紙パック入りウーロン茶飲料	5858	8686	8050
+after > before	紙パック入りココア・チョコレート飲料	5290	3420	5230
+after = before	紙パック入りコーヒー飲料	6348	5944	5650
+after = before	紙パック入り健康茶飲料	1920	2280	1720
+after = before	紙パック入り果汁100％飲料	15162	13702	13852
+after = before	紙パック入り果汁入り清涼飲料	49620	46500	62780
+after < before	紙パック入り果汁混合野菜ジュース	7216	9642	12140
+after<<<before	紙パック入り清酒（1．8L以上）	2280	4610	5940
+after = before	紙パック入り清酒（5合相当）	3474	4350	3038
+after<<<before	紙パック入り清酒（小容量）	244	2106	1806
+after <<before	紙パック入り紅茶飲料	5400	9200	8200
+after = before	紙パック入り緑茶飲料	48050	56812	60834
+after >>before	紙パック入り野菜ジュース	4900	2700	3800
+after <<before	紙パック入り麦茶飲料	4490	8086	6468
+after = before	絹ごし豆腐・ソフト豆腐	2298	2878	2290
+after>>>before	緑茶ティーバッグ	4440	1800	2970
+after = before	練り歯磨き	4319	3551	5172
+after = before	缶入りウエットキャットフード	1878	1518	3340
+after = before	缶入りココア・チョコレート飲料	5290	5175	4485
+after = before	缶入りコーヒー飲料	404641	481087	480333
+after > before	缶入りコーラ飲料	41911	32070	48990
+after = before	缶入りトマトジュース	4140	3565	5980
+after = before	缶入りビール	62396	53628	53968
+after < before	缶入りプレミアムビール	2870	4373	6608
+after<<<before	缶入り健康茶飲料	1840	5390	3630
+after <<before	缶入り果汁入り清涼飲料	6020	10360	15540
+after = before	缶入り無果汁清涼飲料	3360	4340	4200
+after = before	缶入り発泡酒	42600	46030	41935
+after<<<before	缶入り緑茶飲料	1380	5635	4025
+after = before	缶入り野菜ジュース	2760	3105	5865
+after<<<before	草もち	500	1080	950
+after = before	菓子パン	237414	287010	282472
+after < before	蒸しパン	17720	23060	22160
+after = before	袋・箱・缶入りソフトキャンデー	1910	1695	1355
+after = before	袋入りのどあめ	14534	16785	16101
+after = before	袋入りドーナツ	1986	1848	670
+after = before	袋入りハードキャンデー	7112	7131	6128
+after = before	調製豆乳	2160	1760	3440
+after = before	豆菓子	6998	7858	9136
+after = before	赤ワイン	3410	2941	3292
+after = before	鈴カステラ・袋入りカステラ	800	1000	200
+after < before	錠菓	1630	2450	1935
+after >>before	除光液	1350	720	1170
+after < before	風船ガム	900	1385	1145
+after = before	魚肉ソーセージ	4464	4162	4812
+after = before	鶏卵	5828	6961	5792
