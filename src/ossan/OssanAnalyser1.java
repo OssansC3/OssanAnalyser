@@ -37,7 +37,7 @@ public class OssanAnalyser1 {
 		job.setOutputValueClass(Text.class);
 
 		// 入出力ファイルを指定
-		String inputpath = "posdata";
+		String inputpath = "C：//pbl/workspace/posdata";
 		String outputpath = "out/ossan";     // ★MRの出力先
 		if (args.length > 0) {
 			inputpath = args[0];
