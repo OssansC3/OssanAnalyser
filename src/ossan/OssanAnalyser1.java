@@ -36,7 +36,7 @@ public class OssanAnalyser1 {
 		job.setOutputKeyClass(Text.class);
 		job.setOutputValueClass(Text.class);
 
-		// 入出力ファイルを指定
+
 		String inputpath = "C:\\pbl\\workspace\\posdata";
 
 		String outputpath = "out/ossan";     // ★MRの出力先
@@ -77,7 +77,8 @@ public class OssanAnalyser1 {
 			Long count = Long.parseLong(csv[PosUtils.ITEM_TOTAL_PRICE]);
 
 			// keyを取得
-			String name = csv[PosUtils.DATE]+","+csv[PosUtils.ITEM_CATEGORY_NAME];
+			String name
+			= csv[PosUtils.DATE]+","+csv[PosUtils.ITEM_CATEGORY_NAME];
 
 			// emitする （emitデータはCSKVオブジェクトに変換すること）
 			context.write(new Text(name), new Text(String.valueOf(count)));

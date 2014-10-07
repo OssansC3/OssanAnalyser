@@ -69,8 +69,15 @@ public class OssanAnalyser2 {
 			int payDay = 0;
 			int date = 0;
 
-			if(csv[DATE].startsWith("0")) date = Integer.valueOf(csv[DATE].substring(1));
-			else date = Integer.valueOf(csv[DATE]);
+			try{
+				date = Integer.valueOf(csv[DATE]);
+				//if(csv[DATE].startsWith("0")) date = Integer.valueOf(csv[DATE].substring(1));
+				//else date = Integer.valueOf(csv[DATE]);
+			} catch(Exception e){
+				System.out.println(csv[DATE]);
+				throw(e);
+			}
+
 			// 給料日前か後か
 
 			if((date>=25)||(date<5)) payDay = 1;
@@ -110,8 +117,10 @@ public class OssanAnalyser2 {
 			if((countAfter < 1000)&&(countBefore < 1000)) return;//bigSabun = "after = before";
 			else if (countAfter >= countBefore*2) bigSabun = "after>>>before";
 			else if (countAfter*2 <= countBefore) bigSabun = "after<<<before";
+
 			else if (countAfter >= countBefore*1.6) bigSabun = "after>> before";
 			else if (countAfter*1.6 <= countBefore) bigSabun = "after<< before";
+
 			else if (countAfter >= countBefore*1.3) bigSabun = "after > before";
 			else if (countAfter*1.3 <= countBefore) bigSabun = "after < before";
 			else bigSabun = "after = before";
